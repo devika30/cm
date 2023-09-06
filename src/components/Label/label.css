@@ -1,0 +1,12 @@
+.label {
+    background: #d4fee8;
+  }
+  
+  .label p {
+    font-size: 12px;
+  }
+  
+  .label img {
+    width: 12px;
+    height: 12px;
+  }
