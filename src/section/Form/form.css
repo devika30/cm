@@ -93,9 +93,16 @@
     }
   }
   
-  @media (max-width: 700px) {
+  @media (max-width: 767px) {
+    .form-container{
+        margin: 0;
+        min-height: 100vh;
+    }
     .col{
       margin-top: 10px;
       margin-bottom: 10px;
+    }
+    .form-rhs-cosubtitle{
+        font-size: 12px;
     }
   }
